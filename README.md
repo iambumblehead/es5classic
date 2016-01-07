@@ -1,5 +1,7 @@
 
 [![es5 classic][2]][2]
+
+Do you love es5 javascript? Star this repository. Use this logo.
  
 [0]: https://raw.githubusercontent.com/iambumblehead/es5classic/master/es5classic_640x640.png
 [1]: https://raw.githubusercontent.com/iambumblehead/es5classic/master/es5classic_480x480.png
