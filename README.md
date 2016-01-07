@@ -5,8 +5,8 @@
  * [![es5 classic][3]][3]
  * [![es5 classic][4]][4]
  
-[0]: https://github.com/iambumblehead/es5classic/es5classic_640x640.png
-[1]: https://github.com/iambumblehead/es5classic/es5classic_480x480.png
-[2]: https://github.com/iambumblehead/es5classic/es5classic_360x360.png
-[3]: https://github.com/iambumblehead/es5classic/es5classic_240x240.png
-[4]: https://github.com/iambumblehead/es5classic/es5classic_120x120.png
+[0]: https://github.com/iambumblehead/es5classic/master/es5classic_640x640.png
+[1]: https://github.com/iambumblehead/es5classic/master/es5classic_480x480.png
+[2]: https://github.com/iambumblehead/es5classic/master/es5classic_360x360.png
+[3]: https://github.com/iambumblehead/es5classic/master/es5classic_240x240.png
+[4]: https://github.com/iambumblehead/es5classic/master/es5classic_120x120.png
